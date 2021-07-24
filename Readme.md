@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Дмитрий Вахов](https://up.htmlacademy.ru/adaptive/23/user/1123257).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
 
 ---
 
